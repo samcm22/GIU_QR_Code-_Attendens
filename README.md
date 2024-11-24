@@ -21,15 +21,11 @@
 ## 🔗 Table of Contents
 
 - [📍 Overview](#-overview)
-- [👾 Features](#-features)
 - [📁 Project Structure](#-project-structure)
-  - [📂 Project Index](#-project-index)
 - [🚀 Getting Started](#-getting-started)
   - [☑️ Prerequisites](#-prerequisites)
   - [⚙️ Installation](#-installation)
   - [🤖 Usage](#🤖-usage)
-  - [🧪 Testing](#🧪-testing)
-- [📌 Project Roadmap](#-project-roadmap)
 - [🔰 Contributing](#-contributing)
 - [🎗 License](#-license)
 - [🙌 Acknowledgments](#-acknowledgments)
@@ -42,11 +38,7 @@
 
 ---
 
-## 👾 Features
 
-<code>❯ REPLACE-ME</code>
-
----
 
 ## 📁 Project Structure
 
@@ -58,30 +50,7 @@
 ```
 
 
-### 📂 Project Index
-<details open>
-	<summary><b><code>GIU_QR_CODE-_ATTENDENS.GIT/</code></b></summary>
-	<details> <!-- __root__ Submodule -->
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<table>
-			</table>
-		</blockquote>
-	</details>
-	<details> <!-- qr code attendenas Submodule -->
-		<summary><b>qr code attendenas</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/samcm22/GIU_QR_Code-_Attendens.git/blob/master/qr code attendenas/gui coe.py'>gui coe.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-</details>
 
----
 ## 🚀 Getting Started
 
 ### ☑️ Prerequisites
@@ -108,27 +77,16 @@ Install GIU_QR_Code-_Attendens.git using one of the following methods:
 ```
 
 3. Install the project dependencies:
-
-echo 'INSERT-INSTALL-COMMAND-HERE'
+```sh
+❯ pip install -r requirements.txt
+```
 
 
 
 ### 🤖 Usage
 Run GIU_QR_Code-_Attendens.git using the following command:
-echo 'INSERT-RUN-COMMAND-HERE'
+python gui coe.py
 
-### 🧪 Testing
-Run the test suite using the following command:
-echo 'INSERT-TEST-COMMAND-HERE'
-
----
-## 📌 Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
----
 
 ## 🔰 Contributing
 
@@ -175,7 +133,7 @@ echo 'INSERT-TEST-COMMAND-HERE'
 
 ## 🎗 License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+This project is protected under the MIT License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
 
 ---
 
