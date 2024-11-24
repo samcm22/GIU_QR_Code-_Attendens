@@ -1,22 +1,6 @@
-<p align="center">
-    <img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/external-readme-is-a-easy-to-build-a-developer-hub-that-adapts-to-the-user-logo-regular-tal-revivo.png" align="center" width="30%">
-</p>
+
 <p align="center"><h1 align="center">GIU_QR_CODE-_ATTENDENS.GIT</h1></p>
-<p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/samcm22/GIU_QR_Code-_Attendens.git?style=default&logo=opensourceinitiative&logoColor=white&color=000000" alt="license">
-	<img src="https://img.shields.io/github/last-commit/samcm22/GIU_QR_Code-_Attendens.git?style=default&logo=git&logoColor=white&color=000000" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/samcm22/GIU_QR_Code-_Attendens.git?style=default&color=000000" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/samcm22/GIU_QR_Code-_Attendens.git?style=default&color=000000" alt="repo-language-count">
-</p>
-<p align="center"><!-- default option, no dependency badges. -->
-</p>
-<p align="center">
-	<!-- default option, no dependency badges. -->
-</p>
-<br>
+
 
 ## 🔗 Table of Contents
 
